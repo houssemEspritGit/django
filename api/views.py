@@ -8,9 +8,9 @@ from rest_framework.parsers import MultiPartParser, FormParser
 from base.models import User
 from api.serializers import UserSerializer
 from djangoProject1.settings import BASE_DIR, env
-from ResumeAI import text_extraction
-from ResumeAI import Elasticsearch
-from ResumeAI import scrapping
+from ResumeAI_ import text_extraction
+from ResumeAI_ import Elasticsearch
+from ResumeAI_ import scrapping
 import json
 
 
@@ -39,8 +39,8 @@ def createData(request):
                 output = json.load(file)
 
             # Print the parsed data
-            #open(r"C:\Users\Houssem Zerai\PycharmProjects\djangoProject1\ResumeAI\test_resumes.txt", 'w').close()
-            #open(r"C:\Users\Houssem Zerai\PycharmProjects\djangoProject1\ResumeAI\output.json", 'w').close()
+            #open(r"C:\Users\Houssem Zerai\PycharmProjects\djangoProject1\ResumeAI_\test_resumes.txt", 'w').close()
+            #open(r"C:\Users\Houssem Zerai\PycharmProjects\djangoProject1\ResumeAI_\output.json", 'w').close()
             scraping_result = scrapping.scrape(output[0])
             # Convert each dictionary to a tuple of its items and use a set to track unique tuples
             unique_tuples = set(tuple(sorted(item.items())) for item in scraping_result)

@@ -1,0 +1,3835 @@
+Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_E9DIqFC.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_Jaiv9Z6.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_VAK7dQ8.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_XADhnSj.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_h6CZ0ti.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_uAHLT2w.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_IJbMxYe.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_AEd6mvC.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_BZ3HfSd.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_wQbRFib.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_U2gaK2V.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_higacg0.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_LbV04nj.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_mfzlex1.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_7vhOzaJ.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_LqR5u09.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_DEWYKvB.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_XkrL7t3.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_9pal3Sq.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_LTDQFjm.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_SviX7IE.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_gT7fozR.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_N2zn49l.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_HB74fPB.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_fM9q8Br.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_WJbHvrr.pdf  
+/////  Houssem Zerai
+SOFTWARE DEVELOPER
+
+
+
+
+
+GitHub
+
+Linkedin
+
+
+
+
+
+
+houssemzerai@gmail.com
+
+Date of birth 05/04/1998
+
+Tunisian
+
++216 23049235
+
+Education
+
+Since September
+2020
+
+Engineer degree in Computer Science
+Private High School of Engineering and Technologies (ESPRIT) Ariana,
+Tunisia
+
+Languages
+
+English
+
+Arabic
+
+French
+
+Achivements
+
+Tunisian collegiate programming contest
+qualiﬁcation 2018
+
+ISI CPC (2nd place)
+
+Tunisian collegiate programming contest
+qualiﬁcation 2017
+
+ISI CPC (5th place)
+
+From September
+2017 to June 2020
+
+Bachelor degree in Computer Science
+Higher Institute Of Computer Science Tunisia
+
+Work experience
+
+Since February 2020
+
+Back-End Developer
+Digit-U Tunisia
+
+-Design and implementation of databases and server architecture
+-Development of the server logic
+
+Since January 2021
+
+Software Developer
+Rivalz.tn Tunisia
+
+Skills
+
+Data Structures and
+Algorithms
+
+A good knowledge of many data structures and algorithms
+
+Front-end
+
+HTML - CSS  - JavaScript ES6 - Bootstrap
+
+Back-end
+
+PHP-Symfony7-Nodejs/express-Socket.IO-GraphQL
+
+Data Bases
+
+MySQL-PostgreSQL-MongoDB-Redis
+
+Programming
+Languages
+
+Java8-C/C++
+
+Source control
+
+git-GitHub-GitLab
+
+Others
+
+Docker-Microservices-Firebase SDK-Twilio SDK-AWS
+
+Professional Projects
+
+Fuze Bus
+
+Development of Backend/Backoﬃce of Fuze Bus
+
+ NodeJS ,Socket.IO, Redis, PostgreSQL, Google API , SMTP
+,TwillioSDK, Firebase SDK. JIRA, Zeplin , adobe XD Project
+Management: Scrum
+-Fuze is an app that let's Tunisian citizen to book buses safely and
+easly and track their position in real time
+[IOS Store] [Android Store]
+
+Istishara
+
+Development of Backend/Backoﬃce of Istishara
+
+ NodeJS , Redis, PostgreSQL, Google API , SMTP ,TwillioSDK,
+Firebase SDK. JIRA, Zeplin , adobe XD Project Management: Scrum
+-Istishara is an app that let's user to call professionel and ask for
+services such as lawers and those professionels will get payed
+[Android Store]
+
+BK-APP
+
+Development of Backend of BK-APP
+
+ NodeJS , Python ,REST, Redis, MongoDB , Google API , Stripe
+(payment), Firebase SDK. JIRA, Zeplin , adobe XD Scrum
+-BK-APP is an application that is used for medical and cosmetique
+purpose 
+
+/
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_vJY14zi.pdf  
+/////  
