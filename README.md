@@ -2,7 +2,7 @@
   pip install -r requirements.txt
   
 - change djangoProject1/.env with your project path
-- 
+  
 - run the server
   py manage.py runserver
   
