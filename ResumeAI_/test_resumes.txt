@@ -3832,4 +3832,879 @@ purpose 
 
 . 
 Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV-Houssem_Zerai_vJY14zi.pdf  
+/////  Adib Ouechani
+
+Développeur full-stack
+
+Développeur full-stack spécialisé en assurance, j'allie compétences techniques et expertise
+métier pour concevoir des solutions innovantes.
+
+adib.ouechani@gmail.com
+
+Développeur full stack
+
+Be-softilys
+
+
+
+
+
+
+
++21620684445
+
+Megrine, Tunise
+
+Réseaux sociaux
+
+
+
+
+
+@github.com/AdibW
+
+@adib-ouechani
+
+Langages
+
+Javascript
+
+Typescript
+
+Java
+
+Framework
+
+Angular
+
+Spring Boot
+
+NodeJs
+
+Bases de données
+
+Mongo DB
+
+My SQL
+
+Methodologies
+
+Agile
+SCRUM
+KANBAN
+
+Agilité à l'échelle
+SAFe
+SoS
+
+Compétences Métier
+
+Assurance
+Santé
+Vie
+Prévoyance
+
+Compétences  Techniques
+
+Analyse et Chiffrage
+
+Conception et Développement
+
+Tests et Qualité
+
+Déploiement
+
+Démonstration Client
+
+Documentation
+
+Compétences Humaines
+
+Leadership
+
+Gestion du Temps
+
+Orientation Client
+
+Langues
+
+Français
+
+Anglais
+
+05/2022 Be-SOFTILYS Tunis
+DESKTOP
+Mise en place d’un Dashboard dynamique de suivi des sinistres en Assurance Santé et Vie
+permettant aux administrateurs de conﬁgurer de nouveaux widgets selon leurs besoins.
+La création d'un tableau de bord dynamique permettant aux administrateurs de
+conﬁgurer de nouveaux widgets selon leurs besoins.
+Optimisation de l'expérience utilisateur, en réduisant de 20% le temps de chargement
+des micro-frontends grâce à l'utilisation de Single-SPA.
+Amélioration des performances, avec une accélération de 10% du temps de réponse
+suite à la migration de la version Angular 9.1 vers Angular 15.1.
+Optimisation du processus de déploiement avec une accélération de 15%, grâce à
+une meilleure gestion du versionning des déploiements sur Git.
+Optimisation de la productivité par une augmentation de 10% de la vélocité de
+l'équipe, résultant d'une gestion plus eﬃciente des sprints et d'une approche
+proactive des tâches sur Jira.
+
+CLAIM
+Digitalisation du processus de prise en charge Assurance Santé.
+
+Contribution à la résolution des problèmes, grâce à la maîtrise complète du
+périmètre technico-fonctionnel et la participation à toutes les phases du
+développement.
+Renforcement de la ﬁabilité de l'application en réduisant le nombre de cycles de
+tests et des retours clients grâce à la mise en place de tests unitaires ainsi que la
+validation de la qualité du code par SonarQube.
+Optimisation des performances de l’application grâce à la concordance entre Spring
+Boot et Server-Sent Events (SSE).
+Augmentation de la précision des statuts d’avancement des dossiers sinistres à
+l’aide des événements partagés sur AXON Servers et au processus BPMN de
+CAMUNDA.
+
+INVALIDITÉ
+Digitalisation du processus de gestion de sinistre Invalidité. 
+
+Contribution au transfert de connaissances grâce la rédaction de la documentation
+technique, des ﬁches de livraison et des manuels de déploiement.
+Facilitation du transfert des compétences technico-fonctionnelles grâce à la pratique
+du Peer-Programming et des sessions de Code Review.
+Participation à l'éco-conception et et à la conformité au principes RSE en adoptant
+une architecture standalone Angular, favorisant une utilisation eﬃciente des
+ressources et un déploiement responsable.
+
+ADDINN
+
+Développeur full stack
+
+12/2020 - 12/2021 ADDINN
+TIME
+Plateforme de Gestion Intégrée des Cartes Conducteurs et des Tachygraphes.
+
+Amélioration de l'ergonomie des formulaires en mettant à proﬁt les fonctionnalités de
+contrôle de saisie du FormBuilder.
+Raﬃnement de la qualité du reporting et de la représentation des KPI en tirant
+avantage de la bibliothèque Chart.js.
+
+TMS
+Système de Gestion Intégrée pour la Planiﬁcation des Employés et des Conducteurs.
+
+Optimisation de la gestion logistique, avec l'intégration réussie des API Google Maps
+pour exploiter les données géographiques des conducteurs et assurer leur suivi en
+temps réel.
+
+Education
+
+Diplôme d'Ingénieur en Informatique
+
+10/2020 - 06/2024 ESPRIT
+Cycle d'ingénieur en Alternance
+
+Licence en science de l'informatique
+
+09/2017 - 07/2020 Université Centrale École IT
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV_Adib_Ouechani.pdf  
+/////  Adib Ouechani
+
+Développeur full-stack
+
+Développeur full-stack spécialisé en assurance, j'allie compétences techniques et expertise
+métier pour concevoir des solutions innovantes.
+
+adib.ouechani@gmail.com
+
+Développeur full stack
+
+Be-softilys
+
+
+
+
+
+
+
++21620684445
+
+Megrine, Tunise
+
+Réseaux sociaux
+
+
+
+
+
+@github.com/AdibW
+
+@adib-ouechani
+
+Langages
+
+Javascript
+
+Typescript
+
+Java
+
+Framework
+
+Angular
+
+Spring Boot
+
+NodeJs
+
+Bases de données
+
+Mongo DB
+
+My SQL
+
+Methodologies
+
+Agile
+SCRUM
+KANBAN
+
+Agilité à l'échelle
+SAFe
+SoS
+
+Compétences Métier
+
+Assurance
+Santé
+Vie
+Prévoyance
+
+Compétences  Techniques
+
+Analyse et Chiffrage
+
+Conception et Développement
+
+Tests et Qualité
+
+Déploiement
+
+Démonstration Client
+
+Documentation
+
+Compétences Humaines
+
+Leadership
+
+Gestion du Temps
+
+Orientation Client
+
+Langues
+
+Français
+
+Anglais
+
+05/2022 Be-SOFTILYS Tunis
+DESKTOP
+Mise en place d’un Dashboard dynamique de suivi des sinistres en Assurance Santé et Vie
+permettant aux administrateurs de conﬁgurer de nouveaux widgets selon leurs besoins.
+La création d'un tableau de bord dynamique permettant aux administrateurs de
+conﬁgurer de nouveaux widgets selon leurs besoins.
+Optimisation de l'expérience utilisateur, en réduisant de 20% le temps de chargement
+des micro-frontends grâce à l'utilisation de Single-SPA.
+Amélioration des performances, avec une accélération de 10% du temps de réponse
+suite à la migration de la version Angular 9.1 vers Angular 15.1.
+Optimisation du processus de déploiement avec une accélération de 15%, grâce à
+une meilleure gestion du versionning des déploiements sur Git.
+Optimisation de la productivité par une augmentation de 10% de la vélocité de
+l'équipe, résultant d'une gestion plus eﬃciente des sprints et d'une approche
+proactive des tâches sur Jira.
+
+CLAIM
+Digitalisation du processus de prise en charge Assurance Santé.
+
+Contribution à la résolution des problèmes, grâce à la maîtrise complète du
+périmètre technico-fonctionnel et la participation à toutes les phases du
+développement.
+Renforcement de la ﬁabilité de l'application en réduisant le nombre de cycles de
+tests et des retours clients grâce à la mise en place de tests unitaires ainsi que la
+validation de la qualité du code par SonarQube.
+Optimisation des performances de l’application grâce à la concordance entre Spring
+Boot et Server-Sent Events (SSE).
+Augmentation de la précision des statuts d’avancement des dossiers sinistres à
+l’aide des événements partagés sur AXON Servers et au processus BPMN de
+CAMUNDA.
+
+INVALIDITÉ
+Digitalisation du processus de gestion de sinistre Invalidité. 
+
+Contribution au transfert de connaissances grâce la rédaction de la documentation
+technique, des ﬁches de livraison et des manuels de déploiement.
+Facilitation du transfert des compétences technico-fonctionnelles grâce à la pratique
+du Peer-Programming et des sessions de Code Review.
+Participation à l'éco-conception et et à la conformité au principes RSE en adoptant
+une architecture standalone Angular, favorisant une utilisation eﬃciente des
+ressources et un déploiement responsable.
+
+ADDINN
+
+Développeur full stack
+
+12/2020 - 12/2021 ADDINN
+TIME
+Plateforme de Gestion Intégrée des Cartes Conducteurs et des Tachygraphes.
+
+Amélioration de l'ergonomie des formulaires en mettant à proﬁt les fonctionnalités de
+contrôle de saisie du FormBuilder.
+Raﬃnement de la qualité du reporting et de la représentation des KPI en tirant
+avantage de la bibliothèque Chart.js.
+
+TMS
+Système de Gestion Intégrée pour la Planiﬁcation des Employés et des Conducteurs.
+
+Optimisation de la gestion logistique, avec l'intégration réussie des API Google Maps
+pour exploiter les données géographiques des conducteurs et assurer leur suivi en
+temps réel.
+
+Education
+
+Diplôme d'Ingénieur en Informatique
+
+10/2020 - 06/2024 ESPRIT
+Cycle d'ingénieur en Alternance
+
+Licence en science de l'informatique
+
+09/2017 - 07/2020 Université Centrale École IT
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV_Adib_Ouechani_fl59k0W.pdf  
+/////  Adib Ouechani
+
+Développeur full-stack
+
+Développeur full-stack spécialisé en assurance, j'allie compétences techniques et expertise
+métier pour concevoir des solutions innovantes.
+
+adib.ouechani@gmail.com
+
+Développeur full stack
+
+Be-softilys
+
+
+
+
+
+
+
++21620684445
+
+Megrine, Tunise
+
+Réseaux sociaux
+
+
+
+
+
+@github.com/AdibW
+
+@adib-ouechani
+
+Langages
+
+Javascript
+
+Typescript
+
+Java
+
+Framework
+
+Angular
+
+Spring Boot
+
+NodeJs
+
+Bases de données
+
+Mongo DB
+
+My SQL
+
+Methodologies
+
+Agile
+SCRUM
+KANBAN
+
+Agilité à l'échelle
+SAFe
+SoS
+
+Compétences Métier
+
+Assurance
+Santé
+Vie
+Prévoyance
+
+Compétences  Techniques
+
+Analyse et Chiffrage
+
+Conception et Développement
+
+Tests et Qualité
+
+Déploiement
+
+Démonstration Client
+
+Documentation
+
+Compétences Humaines
+
+Leadership
+
+Gestion du Temps
+
+Orientation Client
+
+Langues
+
+Français
+
+Anglais
+
+05/2022 Be-SOFTILYS Tunis
+DESKTOP
+Mise en place d’un Dashboard dynamique de suivi des sinistres en Assurance Santé et Vie
+permettant aux administrateurs de conﬁgurer de nouveaux widgets selon leurs besoins.
+La création d'un tableau de bord dynamique permettant aux administrateurs de
+conﬁgurer de nouveaux widgets selon leurs besoins.
+Optimisation de l'expérience utilisateur, en réduisant de 20% le temps de chargement
+des micro-frontends grâce à l'utilisation de Single-SPA.
+Amélioration des performances, avec une accélération de 10% du temps de réponse
+suite à la migration de la version Angular 9.1 vers Angular 15.1.
+Optimisation du processus de déploiement avec une accélération de 15%, grâce à
+une meilleure gestion du versionning des déploiements sur Git.
+Optimisation de la productivité par une augmentation de 10% de la vélocité de
+l'équipe, résultant d'une gestion plus eﬃciente des sprints et d'une approche
+proactive des tâches sur Jira.
+
+CLAIM
+Digitalisation du processus de prise en charge Assurance Santé.
+
+Contribution à la résolution des problèmes, grâce à la maîtrise complète du
+périmètre technico-fonctionnel et la participation à toutes les phases du
+développement.
+Renforcement de la ﬁabilité de l'application en réduisant le nombre de cycles de
+tests et des retours clients grâce à la mise en place de tests unitaires ainsi que la
+validation de la qualité du code par SonarQube.
+Optimisation des performances de l’application grâce à la concordance entre Spring
+Boot et Server-Sent Events (SSE).
+Augmentation de la précision des statuts d’avancement des dossiers sinistres à
+l’aide des événements partagés sur AXON Servers et au processus BPMN de
+CAMUNDA.
+
+INVALIDITÉ
+Digitalisation du processus de gestion de sinistre Invalidité. 
+
+Contribution au transfert de connaissances grâce la rédaction de la documentation
+technique, des ﬁches de livraison et des manuels de déploiement.
+Facilitation du transfert des compétences technico-fonctionnelles grâce à la pratique
+du Peer-Programming et des sessions de Code Review.
+Participation à l'éco-conception et et à la conformité au principes RSE en adoptant
+une architecture standalone Angular, favorisant une utilisation eﬃciente des
+ressources et un déploiement responsable.
+
+ADDINN
+
+Développeur full stack
+
+12/2020 - 12/2021 ADDINN
+TIME
+Plateforme de Gestion Intégrée des Cartes Conducteurs et des Tachygraphes.
+
+Amélioration de l'ergonomie des formulaires en mettant à proﬁt les fonctionnalités de
+contrôle de saisie du FormBuilder.
+Raﬃnement de la qualité du reporting et de la représentation des KPI en tirant
+avantage de la bibliothèque Chart.js.
+
+TMS
+Système de Gestion Intégrée pour la Planiﬁcation des Employés et des Conducteurs.
+
+Optimisation de la gestion logistique, avec l'intégration réussie des API Google Maps
+pour exploiter les données géographiques des conducteurs et assurer leur suivi en
+temps réel.
+
+Education
+
+Diplôme d'Ingénieur en Informatique
+
+10/2020 - 06/2024 ESPRIT
+Cycle d'ingénieur en Alternance
+
+Licence en science de l'informatique
+
+09/2017 - 07/2020 Université Centrale École IT
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV_Adib_Ouechani_Ho0nbLk.pdf  
+/////  Adib Ouechani
+
+Développeur full-stack
+
+Développeur full-stack spécialisé en assurance, j'allie compétences techniques et expertise
+métier pour concevoir des solutions innovantes.
+
+adib.ouechani@gmail.com
+
+Développeur full stack
+
+Be-softilys
+
+
+
+
+
+
+
++21620684445
+
+Megrine, Tunise
+
+Réseaux sociaux
+
+
+
+
+
+@github.com/AdibW
+
+@adib-ouechani
+
+Langages
+
+Javascript
+
+Typescript
+
+Java
+
+Framework
+
+Angular
+
+Spring Boot
+
+NodeJs
+
+Bases de données
+
+Mongo DB
+
+My SQL
+
+Methodologies
+
+Agile
+SCRUM
+KANBAN
+
+Agilité à l'échelle
+SAFe
+SoS
+
+Compétences Métier
+
+Assurance
+Santé
+Vie
+Prévoyance
+
+Compétences  Techniques
+
+Analyse et Chiffrage
+
+Conception et Développement
+
+Tests et Qualité
+
+Déploiement
+
+Démonstration Client
+
+Documentation
+
+Compétences Humaines
+
+Leadership
+
+Gestion du Temps
+
+Orientation Client
+
+Langues
+
+Français
+
+Anglais
+
+05/2022 Be-SOFTILYS Tunis
+DESKTOP
+Mise en place d’un Dashboard dynamique de suivi des sinistres en Assurance Santé et Vie
+permettant aux administrateurs de conﬁgurer de nouveaux widgets selon leurs besoins.
+La création d'un tableau de bord dynamique permettant aux administrateurs de
+conﬁgurer de nouveaux widgets selon leurs besoins.
+Optimisation de l'expérience utilisateur, en réduisant de 20% le temps de chargement
+des micro-frontends grâce à l'utilisation de Single-SPA.
+Amélioration des performances, avec une accélération de 10% du temps de réponse
+suite à la migration de la version Angular 9.1 vers Angular 15.1.
+Optimisation du processus de déploiement avec une accélération de 15%, grâce à
+une meilleure gestion du versionning des déploiements sur Git.
+Optimisation de la productivité par une augmentation de 10% de la vélocité de
+l'équipe, résultant d'une gestion plus eﬃciente des sprints et d'une approche
+proactive des tâches sur Jira.
+
+CLAIM
+Digitalisation du processus de prise en charge Assurance Santé.
+
+Contribution à la résolution des problèmes, grâce à la maîtrise complète du
+périmètre technico-fonctionnel et la participation à toutes les phases du
+développement.
+Renforcement de la ﬁabilité de l'application en réduisant le nombre de cycles de
+tests et des retours clients grâce à la mise en place de tests unitaires ainsi que la
+validation de la qualité du code par SonarQube.
+Optimisation des performances de l’application grâce à la concordance entre Spring
+Boot et Server-Sent Events (SSE).
+Augmentation de la précision des statuts d’avancement des dossiers sinistres à
+l’aide des événements partagés sur AXON Servers et au processus BPMN de
+CAMUNDA.
+
+INVALIDITÉ
+Digitalisation du processus de gestion de sinistre Invalidité. 
+
+Contribution au transfert de connaissances grâce la rédaction de la documentation
+technique, des ﬁches de livraison et des manuels de déploiement.
+Facilitation du transfert des compétences technico-fonctionnelles grâce à la pratique
+du Peer-Programming et des sessions de Code Review.
+Participation à l'éco-conception et et à la conformité au principes RSE en adoptant
+une architecture standalone Angular, favorisant une utilisation eﬃciente des
+ressources et un déploiement responsable.
+
+ADDINN
+
+Développeur full stack
+
+12/2020 - 12/2021 ADDINN
+TIME
+Plateforme de Gestion Intégrée des Cartes Conducteurs et des Tachygraphes.
+
+Amélioration de l'ergonomie des formulaires en mettant à proﬁt les fonctionnalités de
+contrôle de saisie du FormBuilder.
+Raﬃnement de la qualité du reporting et de la représentation des KPI en tirant
+avantage de la bibliothèque Chart.js.
+
+TMS
+Système de Gestion Intégrée pour la Planiﬁcation des Employés et des Conducteurs.
+
+Optimisation de la gestion logistique, avec l'intégration réussie des API Google Maps
+pour exploiter les données géographiques des conducteurs et assurer leur suivi en
+temps réel.
+
+Education
+
+Diplôme d'Ingénieur en Informatique
+
+10/2020 - 06/2024 ESPRIT
+Cycle d'ingénieur en Alternance
+
+Licence en science de l'informatique
+
+09/2017 - 07/2020 Université Centrale École IT
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV_Adib_Ouechani_8uEqQzE.pdf  
+/////  Adib Ouechani
+
+Développeur full-stack
+
+Développeur full-stack spécialisé en assurance, j'allie compétences techniques et expertise
+métier pour concevoir des solutions innovantes.
+
+adib.ouechani@gmail.com
+
+Développeur full stack
+
+Be-softilys
+
+
+
+
+
+
+
++21620684445
+
+Megrine, Tunise
+
+Réseaux sociaux
+
+
+
+
+
+@github.com/AdibW
+
+@adib-ouechani
+
+Langages
+
+Javascript
+
+Typescript
+
+Java
+
+Framework
+
+Angular
+
+Spring Boot
+
+NodeJs
+
+Bases de données
+
+Mongo DB
+
+My SQL
+
+Methodologies
+
+Agile
+SCRUM
+KANBAN
+
+Agilité à l'échelle
+SAFe
+SoS
+
+Compétences Métier
+
+Assurance
+Santé
+Vie
+Prévoyance
+
+Compétences  Techniques
+
+Analyse et Chiffrage
+
+Conception et Développement
+
+Tests et Qualité
+
+Déploiement
+
+Démonstration Client
+
+Documentation
+
+Compétences Humaines
+
+Leadership
+
+Gestion du Temps
+
+Orientation Client
+
+Langues
+
+Français
+
+Anglais
+
+05/2022 Be-SOFTILYS Tunis
+DESKTOP
+Mise en place d’un Dashboard dynamique de suivi des sinistres en Assurance Santé et Vie
+permettant aux administrateurs de conﬁgurer de nouveaux widgets selon leurs besoins.
+La création d'un tableau de bord dynamique permettant aux administrateurs de
+conﬁgurer de nouveaux widgets selon leurs besoins.
+Optimisation de l'expérience utilisateur, en réduisant de 20% le temps de chargement
+des micro-frontends grâce à l'utilisation de Single-SPA.
+Amélioration des performances, avec une accélération de 10% du temps de réponse
+suite à la migration de la version Angular 9.1 vers Angular 15.1.
+Optimisation du processus de déploiement avec une accélération de 15%, grâce à
+une meilleure gestion du versionning des déploiements sur Git.
+Optimisation de la productivité par une augmentation de 10% de la vélocité de
+l'équipe, résultant d'une gestion plus eﬃciente des sprints et d'une approche
+proactive des tâches sur Jira.
+
+CLAIM
+Digitalisation du processus de prise en charge Assurance Santé.
+
+Contribution à la résolution des problèmes, grâce à la maîtrise complète du
+périmètre technico-fonctionnel et la participation à toutes les phases du
+développement.
+Renforcement de la ﬁabilité de l'application en réduisant le nombre de cycles de
+tests et des retours clients grâce à la mise en place de tests unitaires ainsi que la
+validation de la qualité du code par SonarQube.
+Optimisation des performances de l’application grâce à la concordance entre Spring
+Boot et Server-Sent Events (SSE).
+Augmentation de la précision des statuts d’avancement des dossiers sinistres à
+l’aide des événements partagés sur AXON Servers et au processus BPMN de
+CAMUNDA.
+
+INVALIDITÉ
+Digitalisation du processus de gestion de sinistre Invalidité. 
+
+Contribution au transfert de connaissances grâce la rédaction de la documentation
+technique, des ﬁches de livraison et des manuels de déploiement.
+Facilitation du transfert des compétences technico-fonctionnelles grâce à la pratique
+du Peer-Programming et des sessions de Code Review.
+Participation à l'éco-conception et et à la conformité au principes RSE en adoptant
+une architecture standalone Angular, favorisant une utilisation eﬃciente des
+ressources et un déploiement responsable.
+
+ADDINN
+
+Développeur full stack
+
+12/2020 - 12/2021 ADDINN
+TIME
+Plateforme de Gestion Intégrée des Cartes Conducteurs et des Tachygraphes.
+
+Amélioration de l'ergonomie des formulaires en mettant à proﬁt les fonctionnalités de
+contrôle de saisie du FormBuilder.
+Raﬃnement de la qualité du reporting et de la représentation des KPI en tirant
+avantage de la bibliothèque Chart.js.
+
+TMS
+Système de Gestion Intégrée pour la Planiﬁcation des Employés et des Conducteurs.
+
+Optimisation de la gestion logistique, avec l'intégration réussie des API Google Maps
+pour exploiter les données géographiques des conducteurs et assurer leur suivi en
+temps réel.
+
+Education
+
+Diplôme d'Ingénieur en Informatique
+
+10/2020 - 06/2024 ESPRIT
+Cycle d'ingénieur en Alternance
+
+Licence en science de l'informatique
+
+09/2017 - 07/2020 Université Centrale École IT
+
+. 
+Chemin du fichier : C:\Users\Houssem Zerai\PycharmProjects\media\images\CV_Adib_Ouechani_z714MLt.pdf  
 /////  
