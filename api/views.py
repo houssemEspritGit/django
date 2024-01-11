@@ -29,19 +29,18 @@ def createData(request):
             article = serializer.save()
             data = serializer.data
             text_extraction.extract_text_pdf(data["pdf"])
-            Elasticsearch.convert_to_json("","")
+            filtred_data = Elasticsearch.convert_to_json("","")
 
-            # Specify the path to your JSON file
-            json_file_path = env('PROJECT_PATH')+"output.json"
-
-            # Read the JSON file
-            with open(json_file_path, 'r',encoding="utf-8") as file:
-                # Load JSON data
-                output = json.load(file)
-
-            scraping_result = scrapping.scrape(output[0])
+            # # Specify the path to your JSON file
+            # json_file_path = env('PROJECT_PATH')+"output.json"
+            #
+            # # Read the JSON file
+            # with open(json_file_path, 'r',encoding="utf-8") as file:
+            #     # Load JSON data
+            #     output = json.load(file)
+            scraping_result = scrapping.scrape(filtred_data[0])
             # 2nd web scrapper
-            scraping_result2 = scrapping2.scrape2(output[0])
+            scraping_result2 = scrapping2.scrape2(filtred_data[0])
             scraping_result = scraping_result+scraping_result2
             # Convert each dictionary to a tuple of its items and use a set to track unique tuples
             unique_tuples = set(tuple(sorted(item.items())) for item in scraping_result)

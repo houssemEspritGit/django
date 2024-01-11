@@ -96,12 +96,13 @@ def convert_to_json(model, txt_file):
             # print(f"this is path : {entities['path']}")
             if  entities['technologies'][-1] in entities['path']:
                 entities['technologies'].pop()
-
-
-    with open(env('PROJECT_PATH')+"output.json", 'w', encoding='utf-8') as outfile:
-        json.dump(master_entities, outfile, ensure_ascii=False)
-    with open(env('PROJECT_PATH')+"output.json", 'r', encoding='utf-8') as outfile:
-        return json.load(outfile)
+    file_to_delete = open(env('PROJECT_PATH')+"test_resumes.txt", 'w')
+    file_to_delete.close()
+    return master_entities
+    # with open(env('PROJECT_PATH')+"output.json", 'w', encoding='utf-8') as outfile:
+    #     json.dump(master_entities, outfile, ensure_ascii=False)
+    # with open(env('PROJECT_PATH')+"output.json", 'r', encoding='utf-8') as outfile:
+    #     return json.load(outfile)
 ####################
 
 #
