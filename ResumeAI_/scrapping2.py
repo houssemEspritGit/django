@@ -1,4 +1,5 @@
 import requests
+import random
 from bs4 import BeautifulSoup
 
 def scrape2(keyWords):
@@ -7,7 +8,7 @@ def scrape2(keyWords):
     #pagination
     for key in keyWords:
         keysParsed += key
-    url = 'https://www.emploitunisie.com/recherche-jobs-tunisie/'+keysParsed
+    url = 'https://www.emploitunisie.com/recherche-jobs-tunisie/'+'devops'
     response = requests.get(url)
     job_info = []
 
@@ -22,7 +23,8 @@ def scrape2(keyWords):
             job_data['Entreprise'] = recruiter_info[1].strip()
             job_data['Publiée le'] = recruiter_info[0].strip()
             job_data['Lieu de travail'] = job_listing.find('p').text.strip()
-
+            job_data['Référence:'] = random.randint(1, 90000)
+            job_data['Link'] = job_listing['data-href']
             # Check if the 'job-tags' element is present
             job_tags = job_listing.find('div', class_='job-tags')
             if job_tags:

@@ -1,5 +1,6 @@
 import os
 
+import numpy as np
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
@@ -12,7 +13,7 @@ from ResumeAI_ import text_extraction
 from ResumeAI_ import Elasticsearch
 from ResumeAI_ import scrapping
 from ResumeAI_ import scrapping2
-import json
+import random
 
 
 @api_view(['GET'])
@@ -42,11 +43,16 @@ def createData(request):
             # 2nd web scrapper
             scraping_result2 = scrapping2.scrape2(filtred_data[0])
             scraping_result = scraping_result+scraping_result2
+            random.shuffle(scraping_result)
             # Convert each dictionary to a tuple of its items and use a set to track unique tuples
-            unique_tuples = set(tuple(sorted(item.items())) for item in scraping_result)
+            #unique_tuples = set(tuple(sorted(item.items())) for item in scraping_result)
+            unique_references = set()
+            filtered_array = [job for job in scraping_result if
+                              job["Référence:"] not in unique_references and not unique_references.add(
+                                  job["Référence:"])]
 
             # Convert the tuples back to dictionaries to get the unique objects
-            unique_objects = [dict(t) for t in unique_tuples]
+            #unique_objects = [dict(t) for t in unique_tuples]
 
-            return Response(data=unique_objects)
+            return Response(data=filtered_array)
         return Response(serializer.errors, status=400)
