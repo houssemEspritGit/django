@@ -18,11 +18,11 @@ def scrape2(keyWords):
         job_listings = soup.find_all('div', class_='job-description-wrapper')
         for job_listing in job_listings:
             job_data = {}
-            job_data['Type de poste'] = job_listing.find('h5').text.strip()
+            job_data['Type de poste:'] = job_listing.find('h5').text.strip()
             recruiter_info = job_listing.find('p', class_='job-recruiter').text.strip().split('|')
             job_data['Entreprise'] = recruiter_info[1].strip()
-            job_data['Publiée le'] = recruiter_info[0].strip()
-            job_data['Lieu de travail'] = job_listing.find('p').text.strip()
+            job_data['Publiée le:'] = recruiter_info[0].strip()
+            job_data['Lieu de travail:'] = job_listing.find('p').text.strip()
             job_data['Référence:'] = random.randint(1, 90000)
             job_data['Link'] = job_listing['data-href']
             # Check if the 'job-tags' element is present
